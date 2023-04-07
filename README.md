@@ -8,4 +8,4 @@ Usage:
  
 `python microproc.py [START] [HOW MANY ITERATIONS]`
 
-Must install [Python 3](https://www.python.org/downloads/) and `pip install -r requirements.txt` in order to work properly.
+Must install [Python](https://www.python.org/downloads/) and `pip install -r requirements.txt` in order to work properly.
